@@ -17,7 +17,9 @@ a()
 
 // arrow function 
 
-let b = ()=>{
+let b = (num1 , num2 )=>{
     console.log("jay shree ram")
-
+    return num1+num2
 }
+
+console.log(b(32 , 45))
