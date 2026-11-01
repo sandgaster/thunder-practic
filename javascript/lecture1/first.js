@@ -28,5 +28,15 @@ let obj  = {
     age : 20 
 }
 
-console.log(typeof (arr))
-console.log(typeof (obj))
+let obj1 = obj
+
+let obj2 = {
+    name : "rohit ", 
+    age : 20 
+}
+
+console.log(obj == obj1)
+console.log(obj == obj2)
+
+// console.log(typeof (arr))
+// console.log(typeof (obj))
