@@ -42,9 +42,21 @@ console.log(obj == obj2)
 // console.log(typeof (obj))
 
 
-// Conditional
+// Conditional if else statement 
 
 a = 30 
 
 let result =  a > 18 ? "adult " : "child"
 console.log(result ) 
+
+
+a= -30
+
+// math function 
+console.log(a)
+console.log(Math.abs(a))
+console.log(Math.floor(-2 , a))
+
+
+
+console.log(Math.floor(Math.random()*(48 - 37 +1)+37))
