@@ -60,3 +60,5 @@ console.log(Math.floor(-2 , a))
 
 
 console.log(Math.floor(Math.random()*(48 - 37 +1)+37))
+
+// otp genreate 
