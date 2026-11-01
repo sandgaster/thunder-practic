@@ -40,3 +40,11 @@ console.log(obj == obj2)
 
 // console.log(typeof (arr))
 // console.log(typeof (obj))
+
+
+// Conditional
+
+a = 30 
+
+let result =  a > 18 ? "adult " : "child"
+console.log(result ) 
